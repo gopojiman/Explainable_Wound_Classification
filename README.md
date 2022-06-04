@@ -1,4 +1,4 @@
-# Explainable Wound Classification
+# Robust and Explainable Wound Classification
 This project trains and evaluates different [CMSF](https://github.com/UMBCvision/CMSF) models for the task of classifying images from a mouse wound dataset into one of the four biological stages of healing. Explanability was achieved by generating saliency maps with [RISE](https://github.com/eclique/RISE) and analyzing how transforming the input images affect the models' predictions. All notebooks were written to be run in Google Colab.
 
 ## Repository Contents
